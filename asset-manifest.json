@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/numa_profile/static/css/main.2ba2b4ff.chunk.css",
+    "main.js": "/numa_profile/static/js/main.51039f41.chunk.js",
+    "main.js.map": "/numa_profile/static/js/main.51039f41.chunk.js.map",
+    "runtime-main.js": "/numa_profile/static/js/runtime-main.9a3c704b.js",
+    "runtime-main.js.map": "/numa_profile/static/js/runtime-main.9a3c704b.js.map",
+    "static/js/2.bb27800c.chunk.js": "/numa_profile/static/js/2.bb27800c.chunk.js",
+    "static/js/2.bb27800c.chunk.js.map": "/numa_profile/static/js/2.bb27800c.chunk.js.map",
+    "static/js/3.9e01707e.chunk.js": "/numa_profile/static/js/3.9e01707e.chunk.js",
+    "static/js/3.9e01707e.chunk.js.map": "/numa_profile/static/js/3.9e01707e.chunk.js.map",
+    "index.html": "/numa_profile/index.html",
+    "static/css/main.2ba2b4ff.chunk.css.map": "/numa_profile/static/css/main.2ba2b4ff.chunk.css.map",
+    "static/js/2.bb27800c.chunk.js.LICENSE.txt": "/numa_profile/static/js/2.bb27800c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a3c704b.js",
+    "static/js/2.bb27800c.chunk.js",
+    "static/css/main.2ba2b4ff.chunk.css",
+    "static/js/main.51039f41.chunk.js"
+  ]
+}
